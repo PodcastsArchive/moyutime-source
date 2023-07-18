@@ -24,15 +24,11 @@ jobs:
         python generate.py
       env:
         RSS_URL: ${{ secrets.RSS_URL }} 
-    - name: Configuration environment
-      env:
-          HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
-      run: |
-          git config --global user.name $GIT_USER
-          git config --global user.email $GIT_EMAIL
-    - name: Install dependencies
-      run: |
-          npm install
-    - name: Deploy hexo
-      run: |
-          npm run deploy
+    - name: Deploy
+      id: deploy
+      uses: sma11black/hexo-action@v1.0.3
+      with:
+        deploy_key: ${{ secrets.DEPLOY_KEY }}
+        user_name: $GIT_USER  
+        user_email: $GIT_EMAIL  
+        commit_msg: ${{ github.event.head_commit.message }}  
