@@ -19,12 +19,12 @@ jobs:
       with:
         python-version: '3.10' 
     - run: pip install -r requirements.txt
-    - run: |
+    - name: Generate Doc
+      run: |
         echo $RSS_URL
         python generate.py
       env:
         RSS_URL: ${{ secrets.RSS_URL }} 
-    # Caching dependencies to speed up workflows. (GitHub will remove any cache entries that have not been accessed in over 7 days.)
     - name: Cache node modules
       uses: actions/cache@v1
       id: cache
@@ -35,7 +35,9 @@ jobs:
           ${{ runner.os }}-node-
     - name: Install Dependencies
       if: steps.cache.outputs.cache-hit != 'true'
-      run: npm ci
+      run: |
+        npm install
+        npm ci
     - name: Deploy
       id: deploy
       uses: sma11black/hexo-action@v1.0.3
