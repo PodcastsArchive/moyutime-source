@@ -38,6 +38,14 @@ jobs:
       run: |
         npm install
         npm ci
+    - name: Clean
+      uses: heowc/action-hexo@main
+      with:
+        args: clean
+    - name: Generate
+      uses: heowc/action-hexo@main
+      with:
+        args: generate
     - name: Deploy
       id: deploy
       uses: sma11black/hexo-action@v1.0.3
