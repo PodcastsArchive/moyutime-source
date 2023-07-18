@@ -29,6 +29,6 @@ jobs:
       uses: sma11black/hexo-action@v1.0.3
       with:
         deploy_key: ${{ secrets.DEPLOY_KEY }}
-        user_name: $GIT_USER  
-        user_email: $GIT_EMAIL  
+        user_name: ${{ secrets.GIT_USER }}  
+        user_email: ${{ secrets.GIT_EMAIL }}  
         commit_msg: ${{ github.event.head_commit.message }}  
