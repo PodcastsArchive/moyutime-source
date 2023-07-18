@@ -27,7 +27,8 @@ size = index = entries_len
 index = size
 playlist_items = []
 
-os.makedirs("./source/_posts/")
+if not os.path.exists("./source/_posts/"):
+    os.makedirs("./source/_posts/")
 
 # Generate All Items.
 for entry in entries:
