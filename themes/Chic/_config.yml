@@ -1,53 +1,53 @@
 # Header
-navname: Bentham's Blog
+navname: 摸鱼时间 MoYuTime
 
 # navigatior items
 nav:
-  # Categories: /category
-  # Tags: /tag
-  # About: /about
+  Posts: archives
+  PlayList: playlist
+  About: about
 
 # favicon
-favicon: /favicon.ico
+favicon: ./image/img.jpg
 
 # Profile
-nickname: Jeremy Bentham
+nickname: 摸鱼时间 MoYuTime
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
-avatar: /image/avatar.jpeg
+description: 这里是 「摸鱼时间 MoYuTime」主播们是目前在中美的一群互联网打工人。 朋友间互相畅聊时事观点，日常摸鱼。 摸鱼好耶！ 目前主要我的 solo 回比较多，主要会通过一些古籍探索为主流历史叙事常常忽略的边角料。
+avatar: /image/img.jpg
 
 # main menu navigation
 ## links key words should not be changed.
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
-  # Category:
-  # Tags: 
-  # Link:
-  # Resume:
-  # Publish:
-  # Trophy:
-  # Gallery:
-  # RSS:
-  # AliPay:
-  # ZhiHu: https://www.zhihu.com/people/sirice
-  # LinkedIn:
-  # FaceBook:
-  # Twitter:
-  # Skype:
-  # CodeSandBox:
-  # CodePen:
-  # Sketch:
-  # Gitlab:
-  # Dribbble:
+  Blog: archives
+#  Category:
+#  Tags:
+  # Link: 
+#  Resume:
+#  Publish:
+#  Trophy:
+#  Gallary:
+  RSS: https://podcastsarchive.github.io/moyutime/rss2.xml
+#  AliPay:
+  # ZhiHu: https://www.zhihu.com/people/lfkdsk
+#  LinkedIn:
+#  FaceBook:
+#  Twitter:
+#  Skype:
+#  CodeSandBox:
+#  CodePen:
+#  Sketch:
+#  Gitlab:
+#  Dribble:
   # Instagram:
   # Reddit:
-  # YouTube:
-  # QQ:
-  # Weibo:
-  # WeChat:
+#  YouTube:
+#  QQ:
+  # Weibo: https://weibo.com/u/7350110112
+#  WeChat:
   # Github: https://github.com/lfkdsk
 
 # how links show: you have 2 choice--text or icon.
@@ -67,9 +67,9 @@ post_copyright_enable: true
 post_copyright_author_enable: true
 post_copyright_permalink_enable: true
 post_copyright_license_enable: true
-post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
-post_copyright_slogan_enable: true
-post_copyright_slogan_text: Do you believe in <strong>DESTINY</strong>?
+post_copyright_license_text: Copyright (c) 2022 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
+post_copyright_slogan_enable: false
+post_copyright_slogan_text: Do you believe in <strong>DESTINY<strong>?
 ## toc
 post_toc_enable: true
 
@@ -80,8 +80,8 @@ page_title_enable: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: MMMM D, YYYY
-time_format: H:mm:ss
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
 
 # stylesheets loaded in the <head>
 stylesheets:
