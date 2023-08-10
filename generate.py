@@ -1,4 +1,5 @@
 from html import entities
+import shutil
 import feedparser
 from datetime import datetime
 import pathlib
@@ -16,6 +17,8 @@ AUTHOR = ' lfkdsk '
 
 feed = feedparser.parse(URL)
 all_entries = feed['entries']
+image_url = feed['feed']['image']['href']
+print(image_url)
 entries_len = len(all_entries)
 entries = all_entries
 # entries = all_entries[:entries_len - audio_len]
@@ -30,6 +33,19 @@ playlist_items = []
 if not os.path.exists("./source/_posts/"):
     os.makedirs("./source/_posts/")
 
+if image_url:
+    # download new image.
+    urllib.request.urlretrieve(image_url, './new_img.jpg')
+    shutil.copyfile('./new_img.jpg', './img.jpg')
+    shutil.copyfile('./new_img.jpg', './source/image/img.jpg')
+    os.remove('./new_img.jpg')
+
+def replace_archer(u):
+    if u is None:
+        return u.group()
+    g = sum([int(s) * 60 ** abs(index) for index, s in enumerate(u.group().split(':')[::-1])])
+    return f'{{% playertime {u.group()} {g} %}}'   
+
 # Generate All Items.
 for entry in entries:
     title = entry['title'].replace('"', '')
@@ -37,11 +53,11 @@ for entry in entries:
     date = datetime.strptime(date, "%a, %d %b %Y %H:%M:%S GMT")
     date = date.strftime('%Y-%m-%d %H:%M:%S')
     audio = entry['links'][0]['href']
-    print(audio)
     detail = entry['title_detail']
     player = '{% aplayer ' + f'"{title}"' + AUTHOR + ' ' + audio + ' ' + IMG_URL + ' %}'
     summary = entry['summary']
     summary = re.sub('style=\".*?\"', '', summary)
+    summary = re.sub(r'\d+\:\d+((\:\d+)?)', replace_archer, summary)
     durnation = entry['itunes_duration']
     length = entry['links'][0]['length']
     playlist_items.append( f'{{"title": "{title}", "author": "{AUTHOR}", "url": "{audio}", "pic": "{IMG_URL}"}}')
@@ -58,7 +74,7 @@ type: 'audio/mpeg'
 
 {player}
 
-**[Link]({entry['id']})**
+**[Link]({entry['links'][1]['href']})**
 
 ## Summary
 {summary}
