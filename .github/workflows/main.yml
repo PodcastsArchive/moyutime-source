@@ -42,7 +42,7 @@ jobs:
         npm ci
         npm install hexo-cli -g
         npm install hexo-deployer-git --save
-        hexo g -d
+        hexo g
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
