@@ -1,6 +1,8 @@
 name: run generate.py
 
 on:
+  push:
+    branches: [master]
   workflow_dispatch:
   schedule:
     - cron: '0 12 * * *'
@@ -38,7 +40,9 @@ jobs:
       run: |
         npm install
         npm ci
-        hexo g
+        npm install hexo-cli -g
+        npm install hexo-deployer-git --save
+        hexo g -d
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
