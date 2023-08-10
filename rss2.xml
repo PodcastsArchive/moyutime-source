@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>摸鱼时间 MoYuTime</title>
+    <link>https://podcastsarchive.github.io/moyutime/</link>
+    <atom:link href="https://podcastsarchive.github.io/moyutime/rss2.xml" rel="self" type="application/rss+xml"/>
+    <googleplay:owner></googleplay:owner>
+    <itunes:owner>
+      <itunes:name>moyutime</itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <googleplay:author>moyutime</googleplay:author>
+    <itunes:author>moyutime</itunes:author>
+    <googleplay:category text=""/>
+    <itunes:category text=""/>
+    <description></description>
+    <googleplay:image href="https://podcastsarchive.github.io/moyutime/image/img.jpg"/>
+    <itunes:image href="https://podcastsarchive.github.io/moyutime/image/img.jpg"/>
+    <language>zh</language>
+    <googleplay:explicit>no</googleplay:explicit>
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>vol.4「装神弄鬼江相派」- 小伙子哪学的满嘴黑话啊 （中）</title>
+      <description>
+        <content type="html">
+            &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/moyutime/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/moyutime/assets/js/APlayer.min.js&quot; class=&quot;aplayer-secondary-script-marker&quot;&gt;&lt;/script&gt;
+        &lt;div id=&quot;aplayer-dGmXMjWQ&quot; class=&quot;aplayer aplayer-tag-marker&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
+            &lt;pre class=&quot;aplayer-lrc-content&quot;&gt;&lt;/pre&gt;
+        &lt;/div&gt;
+        &lt;script&gt;
+          var ap = new APlayer({
+            element: document.getElementById(&quot;aplayer-dGmXMjWQ&quot;),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: &quot;vol.4「装神弄鬼江相派」- 小伙子哪学的满嘴黑话啊 （中）&quot;,
+              author: &quot;lfkdsk&quot;,
+              url: &quot;https://dts-api.xiaoyuzhoufm.com/track/6161387b0a191aa6100b4656/61addc7167a917fe1b4fec38/media.xyzcdn.net/liJa1q-y1hFsL5_G-5TgmTgz5bj-.m4a?from=feedparser/6.0.10%20+https://github.com/kurtmckee/feedparser/&quot;,
+              pic: &quot;https://podcastsarchive.github.io/moyutime/image/img.jpg&quot;,
+              lrc: &quot;&quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        &lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;61addc7167a917fe1b4fec38&quot;&gt;Link&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Summary&quot;&gt;&lt;a href=&quot;#Summary&quot; class=&quot;headerlink&quot; title=&quot;Summary&quot;&gt;&lt;/a&gt;Summary&lt;/h2&gt;&lt;p&gt;@lfkdsk - 民俗文化爱好者，摸了&lt;/p&gt;&lt;p&gt;聊聊如何探寻身边寻常巷陌的历史性，规划自己的虚拟仿古旅游路线。发现某个三十年代凶宅还在正常运营（？！），还是北外滩最受欢迎的第 X 名酒店 ！！&lt;/p&gt;&lt;p&gt;下半部分在继续开心现场翻译英耀篇的剩余部分内容 （虽然有些错讹字，但是 wikisource 确实是全本内容），翻译完时间就不多了，关于 「阿宝篇」的内容我们只好再放到下期来讲啦。&lt;/p&gt;&lt;p&gt;「直到我们再次相见」&lt;/p&gt;&lt;blockquote&gt;好吧，我又放飞自我没有把握好内容，把原定的一期内容搞到了三期，啼嘿！&lt;/blockquote&gt;&lt;p&gt;相关阅读：&lt;a href=&quot;https://zh.m.wikisource.org/zh/%E8%8B%B1%E8%80%80%E8%B3%A6&quot;&gt;英耀篇&lt;/a&gt;&lt;/p&gt;&lt;blockquote&gt;片头音乐：Feather - Dirk Maassen 《Ocean》&lt;/blockquote&gt;&lt;blockquote&gt;片尾音乐：风住的街道 - 矶村由纪子 （2020 纪念版）&lt;/blockquote&gt;&lt;p&gt;时间轴：&lt;/p&gt;&lt;p&gt;[00:01:10] 该摸了&lt;/p&gt;&lt;p&gt;[00:01:50] 重建生活、巷陌的历史性&lt;/p&gt;&lt;p&gt;[00:03:50] 经常喜欢批判大城市的现代化带来的千篇一律&lt;/p&gt;&lt;p&gt;[00:05:35] 该对中关村大批特批了！&lt;/p&gt;&lt;p&gt;[00:05:50] 关于附近「大钟寺」与「五行厌胜术」&lt;/p&gt;&lt;p&gt;[00:12:15] 在沪夜游神，半夜瞎逛 + 1&lt;/p&gt;&lt;p&gt;[00:12:33] 「虬江路」早期革命党人的深夜食堂&lt;/p&gt;&lt;p&gt;[00:14:50] 「新亚酒店」的血腥往事&lt;/p&gt;&lt;p&gt;[00:16:39] 天真了（&lt;/p&gt;&lt;p&gt;[00:17:45] 最近的再搜索，还在运营！？&lt;/p&gt;&lt;p&gt;[00:19:18] 「凶宅爱好者」？？？（我把四川路桥说成打浦桥了，悲）&lt;/p&gt;&lt;p&gt;[00:21:15] 如何在大街上进行一场绑架&lt;/p&gt;&lt;p&gt;[00:23:38] 继续读一读 「英耀篇」&lt;/p&gt;&lt;p&gt;[00:24:00] 上次的错讹字&lt;/p&gt;&lt;p&gt;[00:30:02] 大清早我就知道了&lt;/p&gt;&lt;p&gt;[00:32:00] 来点精神力量&lt;/p&gt;&lt;p&gt;[00:33:00] 师门不出帝寿&lt;/p&gt;&lt;p&gt;[00:36:10] 经验科学吧大概，关于不同性别的算命预期&lt;/p&gt;&lt;p&gt;[00:39:15] 舔狗不得 House&lt;/p&gt;&lt;p&gt;[00:40:30] EMO 人开始了&lt;/p&gt;&lt;p&gt;[00:46:00] 没喂过奶，有人讲讲么？&lt;/p&gt;&lt;p&gt;[00:52:15] 都是博弈，都是博弈&lt;/p&gt;&lt;p&gt;[00:54:00] 莫欺少年穷&lt;/p&gt;&lt;p&gt;[00:56:40] 大家都想听到别人支持我们&lt;/p&gt;&lt;p&gt;[00:58:40] 长线思维&lt;/p&gt;&lt;p&gt;[01:00:10] ？？？这就是一个小时了&lt;/p&gt;&lt;p&gt;[01:03:15] 读错了，读错了&lt;/p&gt;&lt;p&gt;[01:04:35] 博弈过程 - 对应战争&lt;/p&gt;&lt;p&gt;[01:05:45] 出来算命，每一秒都是斗争&lt;/p&gt;&lt;p&gt;[01:09:30] 思想进步的算命先生&lt;/p&gt;&lt;p&gt;[01:12:30] 大义的名分！&lt;/p&gt;&lt;p&gt;[01:14:50] 「阿宝篇」前瞻&lt;/p&gt;&lt;p&gt;[01:17:20] 君子小人通吃&lt;/p&gt;&lt;p&gt;[01:20:00] 哪来的 「一」&lt;/p&gt;&lt;p&gt;[01:22:40] 讲好了因引子，下期再见👋&lt;/p&gt;&lt;p&gt;[01:23:50] 背景乐，风住的街道 ~~&lt;/p&gt;
+    
+        </content>
+      </description>
+      <pubDate>Mon, 06 Dec 2021 09:48:33 GMT</pubDate>
+      <enclosure url="https://dts-api.xiaoyuzhoufm.com/track/6161387b0a191aa6100b4656/61addc7167a917fe1b4fec38/media.xyzcdn.net/liJa1q-y1hFsL5_G-5TgmTgz5bj-.m4a?from=feedparser/6.0.10%20+https://github.com/kurtmckee/feedparser/" type="audio/mpeg" length="166926785"/>
+      <itunes:duration>01:25:28</itunes:duration>
+      <guid>https://podcastsarchive.github.io/moyutime/2021/12/06/vol4/</guid>
+    </item>
+    
+    <item>
+      <title>vol.3「装神弄鬼」- 如何速成一个古典主义江湖术士 （上）+ 杂谈回</title>
+      <description>
+        <content type="html">
+            &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/moyutime/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/moyutime/assets/js/APlayer.min.js&quot; class=&quot;aplayer-secondary-script-marker&quot;&gt;&lt;/script&gt;
+        &lt;div id=&quot;aplayer-bfEazniy&quot; class=&quot;aplayer aplayer-tag-marker&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
+            &lt;pre class=&quot;aplayer-lrc-content&quot;&gt;&lt;/pre&gt;
+        &lt;/div&gt;
+        &lt;script&gt;
+          var ap = new APlayer({
+            element: document.getElementById(&quot;aplayer-bfEazniy&quot;),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: &quot;vol.3「装神弄鬼」- 如何速成一个古典主义江湖术士 （上）+ 杂谈回&quot;,
+              author: &quot;lfkdsk&quot;,
+              url: &quot;https://dts-api.xiaoyuzhoufm.com/track/6161387b0a191aa6100b4656/619fc8f0978d16810fe1f1e3/media.xyzcdn.net/lmOUJaTUr3CvvrJ53GTBr_zMnaRa.mp3?from=feedparser/6.0.10%20+https://github.com/kurtmckee/feedparser/&quot;,
+              pic: &quot;https://podcastsarchive.github.io/moyutime/image/img.jpg&quot;,
+              lrc: &quot;&quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        &lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;619fc8f0978d16810fe1f1e3&quot;&gt;Link&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Summary&quot;&gt;&lt;a href=&quot;#Summary&quot; class=&quot;headerlink&quot; title=&quot;Summary&quot;&gt;&lt;/a&gt;Summary&lt;/h2&gt;&lt;p&gt;@lfkdsk - 民俗文化爱好者，摸了&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;片头音乐：和平之月 - 二胡 - 清秋 Pure&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;p&gt;片尾音乐：泽口真生 - 自然私语 - 雨（熊野）&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;聊聊最近都在做什么事情、打了什么游戏，顺便推荐一本不太好找的书 ——《旧中国的黑社会》。&lt;/p&gt;&lt;p&gt;借助一个旧社会求神问卦的会道门 「江相派」的故事，带你一窥全书的风貌。还即兴翻译了一段充满「春点黑话」的江相派秘籍「英耀篇」，并通过一个实际的使用场景看旧社会 “心理学家” 如何抽丝剥茧来做 「铁口神断」。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;这个只是上集，更精彩「英耀篇」后续以及一个真实发生过的「阿 (e) 宝」骗局还未讲完，可以关注下，下集也在制作中。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;[00:00:27] 是 ASMR！&lt;/p&gt;&lt;p&gt;[00:01:12] 摸鱼的理由&lt;/p&gt;&lt;p&gt;[00:08:24] 最近在摸什么事情捏？&lt;/p&gt;&lt;p&gt;[00:10:00] 最近打了不少游戏&lt;/p&gt;&lt;p&gt;[00:15:00] 仙剑 7、密特罗德 5、极限竞速地平线 5&lt;/p&gt;&lt;p&gt;[00:21:00] Elden Ring Demo 网络测试&lt;/p&gt;&lt;p&gt;[00:26:23] 推荐本书 《旧中国的黑社会》&lt;/p&gt;&lt;p&gt;[00:33:14] 古怪的前言和 「免责声明」&lt;/p&gt;&lt;p&gt;[00:40:20] 「增强学习」的神棍，介绍「江相派」&lt;/p&gt;&lt;p&gt;[00:42:25] 翻译「英耀篇」&lt;/p&gt;&lt;p&gt;[00:52:40] 清醒的「江湖术士」&lt;/p&gt;&lt;p&gt;[00:58:55] 学术应用时间：以某个破落户为例&lt;/p&gt;&lt;p&gt;[01:06:10] 不开口知道您问啥&lt;/p&gt;&lt;p&gt;[01:08:50] 敲打敲打&lt;/p&gt;&lt;p&gt;[01:17:40] 下期内容&lt;/p&gt;&lt;p&gt;[01:18:40] 神秘的故事从晚明到晚清&lt;/p&gt;
+    
+        </content>
+      </description>
+      <pubDate>Thu, 25 Nov 2021 17:33:35 GMT</pubDate>
+      <enclosure url="https://dts-api.xiaoyuzhoufm.com/track/6161387b0a191aa6100b4656/619fc8f0978d16810fe1f1e3/media.xyzcdn.net/lmOUJaTUr3CvvrJ53GTBr_zMnaRa.mp3?from=feedparser/6.0.10%20+https://github.com/kurtmckee/feedparser/" type="audio/mpeg" length="116966716"/>
+      <itunes:duration>01:21:13</itunes:duration>
+      <guid>https://podcastsarchive.github.io/moyutime/2021/11/25/vol3/</guid>
+    </item>
+    
+    <item>
+      <title>vol.2「如何一年上650 ?」- 吐槽高三付费杀猪盘与打鸡血视频</title>
+      <description>
+        <content type="html">
+            &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/moyutime/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/moyutime/assets/js/APlayer.min.js&quot; class=&quot;aplayer-secondary-script-marker&quot;&gt;&lt;/script&gt;
+        &lt;div id=&quot;aplayer-CzHQJtbI&quot; class=&quot;aplayer aplayer-tag-marker&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
+            &lt;pre class=&quot;aplayer-lrc-content&quot;&gt;&lt;/pre&gt;
+        &lt;/div&gt;
+        &lt;script&gt;
+          var ap = new APlayer({
+            element: document.getElementById(&quot;aplayer-CzHQJtbI&quot;),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: &quot;vol.2「如何一年上650 ?」- 吐槽高三付费杀猪盘与打鸡血视频&quot;,
+              author: &quot;lfkdsk&quot;,
+              url: &quot;https://dts-api.xiaoyuzhoufm.com/track/6161387b0a191aa6100b4656/617918681989541784257776/media.xyzcdn.net/ljS8ygxXvBSxRNJuroEaIC8-mtA5.m4a?from=feedparser/6.0.10%20+https://github.com/kurtmckee/feedparser/&quot;,
+              pic: &quot;https://podcastsarchive.github.io/moyutime/image/img.jpg&quot;,
+              lrc: &quot;&quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        &lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;617918681989541784257776&quot;&gt;Link&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Summary&quot;&gt;&lt;a href=&quot;#Summary&quot; class=&quot;headerlink&quot; title=&quot;Summary&quot;&gt;&lt;/a&gt;Summary&lt;/h2&gt;&lt;p&gt;@lfkdsk 资深moyu人&lt;/p&gt;&lt;p&gt;@means88 另一个moyu人&lt;/p&gt;&lt;blockquote&gt;本期的吐槽对象可以在 bilibili 直接搜索 「高三」看到，笑死我了 （可以先学习这些视频）&lt;/blockquote&gt;&lt;blockquote&gt;其余的瓜可以在 zhihu 顺藤摸瓜进行搜索&lt;/blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://zbklptbodj.feishu.cn/docs/doccnbjUs9FgOjrGcXztBYU4Ich#xrZVUG&quot;&gt;飞书 topic 文档&lt;/a&gt;&lt;/p&gt;&lt;p&gt;「进来跟你算笔高三的时间账」&lt;/p&gt;&lt;p&gt;「我的高三，是一场复仇」&lt;/p&gt;&lt;p&gt;「一年，怎么上 650」&lt;/p&gt;&lt;p&gt;这些视频标题是不是非常吸引眼球，如果还是一个在经历或者准备经历高三而又恰巧对成绩有些担忧的同学可能就很有打开看的欲望。然而得力于哔哩哔哩奇怪的推荐系统，完全不是这些视频受众的我，也在一个摸鱼的午饭时间也被推荐了这些视频。&lt;/p&gt;&lt;p&gt;好听的声音、神秘的逻辑、脆弱的令人心折的大哥哥、潜藏于其中情感寄托和付费杀猪盘，这些内容、人设和潜在危险是刚刚点击进这些视频的我所始料未及的。所以我和 @means88 快速学习了一下这些视频并且顺藤摸瓜了解了这些付费业务的后续进展，有了这期临时播客来吐槽。&lt;/p&gt;&lt;blockquote&gt;希望大家不要上这种奇怪的当，上点有难度的&lt;/blockquote&gt;&lt;ul&gt;  &lt;li&gt;奇怪的高三鸡血视频&lt;/li&gt;  &lt;li&gt;鸡血视频的逻辑缺陷和 PUA 手段&lt;/li&gt;  &lt;li&gt;原来还有割韭菜的手段啊 （禁止🚫大哥哥）&lt;/li&gt;  &lt;li&gt;自己这段时间的经历和想法&lt;/li&gt;  &lt;li&gt;一点愿望&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;时间轴&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;  &lt;li&gt;00:00:00 推荐下最近经常在循环的 「泡沫」（花儿乐队）&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;00:02:53 &lt;/strong&gt;奇怪的高三鸡血视频&lt;/li&gt;  &lt;li&gt;00:12:31 鸡血视频的逻辑缺陷和 PUA 手段&lt;/li&gt;  &lt;li&gt;00:39:04 原来还有割韭菜的手段啊 （禁止🚫大哥哥）&lt;/li&gt;  &lt;li&gt;00:47:30 自己这段时间的经历和想法&lt;/li&gt;  &lt;li&gt;00:56:43 一点愿望&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;如何联系我？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://zbklptbodj.feishu.cn/docs/doccnANUeTi0wo4rWd5dBKc7Gib&quot;&gt;lfkdsk&#39;s profile&lt;/a&gt;&lt;/p&gt;
+    
+        </content>
+      </description>
+      <pubDate>Wed, 27 Oct 2021 09:14:16 GMT</pubDate>
+      <enclosure url="https://dts-api.xiaoyuzhoufm.com/track/6161387b0a191aa6100b4656/617918681989541784257776/media.xyzcdn.net/ljS8ygxXvBSxRNJuroEaIC8-mtA5.m4a?from=feedparser/6.0.10%20+https://github.com/kurtmckee/feedparser/" type="audio/mpeg" length="123967422"/>
+      <itunes:duration>01:09:12</itunes:duration>
+      <guid>https://podcastsarchive.github.io/moyutime/2021/10/27/vol2/</guid>
+    </item>
+    
+    <item>
+      <title>vol.1 杂谈 &amp; 唱唱反调 - 不想长大？还不如长大呢 - 试播 Solo</title>
+      <description>
+        <content type="html">
+            &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/moyutime/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/moyutime/assets/js/APlayer.min.js&quot; class=&quot;aplayer-secondary-script-marker&quot;&gt;&lt;/script&gt;
+        &lt;div id=&quot;aplayer-saWJTMmP&quot; class=&quot;aplayer aplayer-tag-marker&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
+            &lt;pre class=&quot;aplayer-lrc-content&quot;&gt;&lt;/pre&gt;
+        &lt;/div&gt;
+        &lt;script&gt;
+          var ap = new APlayer({
+            element: document.getElementById(&quot;aplayer-saWJTMmP&quot;),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: &quot;vol.1 杂谈 &amp; 唱唱反调 - 不想长大？还不如长大呢 - 试播 Solo&quot;,
+              author: &quot;lfkdsk&quot;,
+              url: &quot;https://dts-api.xiaoyuzhoufm.com/track/6161387b0a191aa6100b4656/6161634c84910d43c3087acd/media.xyzcdn.net/lqVsbOmZJZsGeIHH5ZNDm26rr33I.m4a?from=feedparser/6.0.10%20+https://github.com/kurtmckee/feedparser/&quot;,
+              pic: &quot;https://podcastsarchive.github.io/moyutime/image/img.jpg&quot;,
+              lrc: &quot;&quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        &lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;6161634c84910d43c3087acd&quot;&gt;Link&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Summary&quot;&gt;&lt;a href=&quot;#Summary&quot; class=&quot;headerlink&quot; title=&quot;Summary&quot;&gt;&lt;/a&gt;Summary&lt;/h2&gt;&lt;blockquote&gt;在北美的朋友因为半夜香香鸡没到而饿晕无法参与播客录制的情况下，我扛起了 Solo 播客的重任。&lt;/blockquote&gt;&lt;p&gt;杂谈内容聊了聊做播客的初衷。&lt;/p&gt;&lt;h2&gt;内容的主题就是 “唱唱反调 - 不想长大，还不如长大呢？”。&lt;/h2&gt;&lt;blockquote&gt;经常听到一种观点是成年人相对青少年的不容易，也经常会有人表达不想长大的观点。打算唱唱反调的聊一聊有哪些成长的好处。&lt;/blockquote&gt;&lt;ul&gt;  &lt;li&gt;资源匮乏 vs 资源充盈&lt;/li&gt;  &lt;li&gt;有标准答案的应试教育 vs 差异化竞争的职场&lt;/li&gt;  &lt;li&gt;被学校定义的生活作息 vs 肆意妄为的生活作息&lt;/li&gt;  &lt;li&gt;学生时代的 PUA vs 职场 PUA&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;时间轴&lt;/h2&gt;&lt;ul&gt;  &lt;li&gt;00:00:08 开播词&lt;/li&gt;  &lt;li&gt;00:02:40 被饿晕的北美主播&lt;/li&gt;  &lt;li&gt;00:04:20 Solo 人&lt;/li&gt;  &lt;li&gt;00:04:50 完全不想剪辑！卡了！&lt;/li&gt;  &lt;li&gt;00:05:20 持续嘴硬&lt;/li&gt;  &lt;li&gt;00:08:20 单纯信息量的传播&lt;/li&gt;  &lt;li&gt;00:09:50 点评一下某朋友👬&lt;/li&gt;  &lt;li&gt;00:12:00 唱唱反调，这个标题能用么？&lt;/li&gt;  &lt;li&gt;00:14:50 关于资源匮乏&lt;/li&gt;  &lt;li&gt;00:33:55 有标准答案的应试教育 vs 差异化竞争的职场&lt;/li&gt;  &lt;li&gt;00:47:37 被学校定义的生活作息 vs 肆意妄为的生活作息&lt;/li&gt;  &lt;li&gt;00:50:37 学生时代的 PUA vs 职场 PUA&lt;/li&gt;  &lt;li&gt;01:08:04 结束语&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;摸了，我 70 min 完全没剪辑。&lt;/p&gt;
+    
+        </content>
+      </description>
+      <pubDate>Sat, 09 Oct 2021 09:39:24 GMT</pubDate>
+      <enclosure url="https://dts-api.xiaoyuzhoufm.com/track/6161387b0a191aa6100b4656/6161634c84910d43c3087acd/media.xyzcdn.net/lqVsbOmZJZsGeIHH5ZNDm26rr33I.m4a?from=feedparser/6.0.10%20+https://github.com/kurtmckee/feedparser/" type="audio/mpeg" length="65407663"/>
+      <itunes:duration>01:11:11</itunes:duration>
+      <guid>https://podcastsarchive.github.io/moyutime/2021/10/09/vol1/</guid>
+    </item>
+    
+  </channel>
+</rss>
